@@ -1,6 +1,4 @@
-# M Abhishek Singh
-
-## **👋 Hi, I'm Abhishek Singh**
+# **👋 Hi, I'm Abhishek Singh**
 - **Software Engineer | Data Scientist | AI Enthusiast**
 
 I am a detail-oriented Software Engineer with a strong foundation in Data Science and AI. With a background in building intelligent systems—ranging from computer vision for agriculture to accessibility tools—I focus on writing clean, scalable code and solving complex arithmetical and statistical problems.
